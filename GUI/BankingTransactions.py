@@ -29,7 +29,7 @@ import time
 
 SERVER = "localhost"
 USER = "sa"
-PASSWORD = "A8r3m2AN"
+PASSWORD = "yourPassword"
 DATABASE = "DB_FinalProject"
 
 connection = pymssql.connect(server=SERVER, user=USER,
