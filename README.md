@@ -19,9 +19,9 @@ We know that every transaction has many components like a voucher id, transactio
 3. Finally, run ``python3 BankingTransactions.py`` or ``python BankingTransactions.py`` in your terminal.
 4. You can now work with the GUI.
 ## Output
-<img width="1200" alt="Screen Shot 2020-08-06 at 3 41 43 PM" src="https://user-images.githubusercontent.com/35253872/89525494-8b2d8200-d7fb-11ea-861d-09f8fbc78790.png">
+<img width="900" alt="Screen Shot 2020-08-06 at 3 41 43 PM" src="https://user-images.githubusercontent.com/35253872/89525494-8b2d8200-d7fb-11ea-861d-09f8fbc78790.png">
 
-<img width="1200" alt="Screen Shot 2020-08-06 at 3 42 02 PM" src="https://user-images.githubusercontent.com/35253872/89525505-8e287280-d7fb-11ea-92ae-9274cd4ecdf8.png">
+<img width="900" alt="Screen Shot 2020-08-06 at 3 42 02 PM" src="https://user-images.githubusercontent.com/35253872/89525505-8e287280-d7fb-11ea-92ae-9274cd4ecdf8.png">
 
 <img width="1200" alt="Screen Shot 2020-08-06 at 3 42 26 PM" src="https://user-images.githubusercontent.com/35253872/89525510-8ec10900-d7fb-11ea-8712-34e62ae9c835.png">
 
