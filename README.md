@@ -3,10 +3,10 @@
 Banks have many customers who can open an account and trade during the day. With each transaction, the value of their deposit may increase or decrease. Also, we have several ways to withdraw money or put money in the bank. For example, you can use credit cards or do it in-person. 
 ## Goal
 We know that every transaction has many components like a voucher id, transaction date, transaction time, source id, destination id, and amount. In this project, we want to use these components to find the final destination of this money after the current transaction or to find the first source of this money before the current transaction. Suppose we have a transaction from X to Y with the amount of $100 and the Transaction date is 2019-04-16. To achieve this goal, we must consider the following criteria and create a related graph:
-1.
-2.
-3.
-4.
+1._
+2._
+3._
+4._
 ## Requirements
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 * [SQL Management Tools for SQL server](https://www.guru99.com/top-20-sql-management-tools.html)
