@@ -11,7 +11,7 @@ We know that every transaction has many components like a voucher id, transactio
 * [SQL Server 2019](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 * [SQL Management Tools for SQL server](https://www.guru99.com/top-20-sql-management-tools.html)
 * Python 3.7.4
-* ``pip install networkx``
+* [networkx](https://github.com/networkx/networkx) -> ``pip install networkx``
 * [kivy](https://kivy.org/#download)
 ## How to Run
 1. First of all, you need to connect to the SQL Server.
